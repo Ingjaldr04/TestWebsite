@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "This is a Test-Website for Digital History Methods",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit.\nThis is bold or italics\n1 + 1 ```render _freeze"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "NewWebpage.html",
+    "href": "NewWebpage.html",
+    "title": "A New Webpage",
+    "section": "",
+    "text": "What the hell is going on."
+  }
+]

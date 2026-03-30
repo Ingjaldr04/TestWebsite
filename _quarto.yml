@@ -14,7 +14,9 @@ website:
 format:
   html:
     theme:
-      - dark
+      light: flatly
+       dark: darkly
+
       - brand
     css: styles.css
     toc: true

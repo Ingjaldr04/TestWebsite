@@ -12,5 +12,3 @@ This is **bold** or *italics*
 ```{r}
 1 + 1
 ```render
-_freeze
-.github/workflows/publish.yml

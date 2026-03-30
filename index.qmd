@@ -1,5 +1,5 @@
 ---
-title: "TestWebsite"
+title: "This is a Test-Website for Digital History Methods"
 ---
 
 This is a Quarto website.
@@ -10,4 +10,5 @@ This is **bold** or *italics*
 
 ```{r}
 1 + 1
-```
+```render
+_freeze

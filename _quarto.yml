@@ -15,9 +15,9 @@ format:
   html:
   respect-user-color-scheme: true
  theme:
-  light: flatly
-  dark: darkly
-      - brand
+  - light: flatly
+  - dark: darkly
+  - brand
     css: styles.css
     toc: true
 execute: 
